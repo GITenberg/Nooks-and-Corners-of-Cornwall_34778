@@ -1,0 +1,29 @@
+_repo: Nooks-and-Corners-of-Cornwall_34778
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34778-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dawson Scott, C. A. (Catharine Amy)
+    aliases:
+    - Scott, C. A. Dawson (Catharine Amy Dawson)
+    - Scott, Catharine Amy Dawson
+    birthdate: 1865
+    deathdate: 1934
+    gutenberg_agent_id: '37217'
+    url: http://www.gutenberg.org/2009/agents/37217
+description: ''
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cornwall (England : County) -- Description and travel'
+- !lcc 'DA'
+title: Nooks and Corners of Cornwall
+url: http://www.gutenberg.org/ebooks/34778
